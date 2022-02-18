@@ -1,16 +1,15 @@
-### Hi there 👋
+### ThePrimeagen
 
-<!--
-**ThePrimeagen/ThePrimeagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a guy looking to make my developer workflow more awesome, build performant
+projects, understand memory, and ultimately craft really awesome software.
 
-Here are some ideas to get you started:
+Fun Facts
+* Almost everything in my repos are developed live on [twitch](https://twitch.tv/ThePrimeagen)
+* I make some [YouTubes](https://youtube.com/ThePrimeagen)
+* I work at Netflix
+* I have a few courses on FrontEnd Masters
+  * [VIM Fundamentals](https://frontendmasters.com/courses/vim-fundamentals/)
+  * [Developer Productivity](https://frontendmasters.com/courses/developer-productivity/)
+  * [Web3](https://frontendmasters.com/courses/web3-smart-contracts/)
+* I am lord of the degen's [Discord](https://discord.gg/ThePrimeagen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
