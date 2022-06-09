@@ -6,7 +6,6 @@ projects, understand memory, and ultimately craft really awesome software.
 Fun Facts
 * Almost everything in my repos are developed live on [twitch](https://twitch.tv/ThePrimeagen)
 * I make some [YouTubes](https://youtube.com/ThePrimeagen)
-* I work at Netflix
 * I have a few courses on FrontEnd Masters
   * [VIM Fundamentals](https://frontendmasters.com/courses/vim-fundamentals/)
   * [Developer Productivity](https://frontendmasters.com/courses/developer-productivity/)
