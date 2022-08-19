@@ -10,6 +10,6 @@ Fun Facts
 * I have a few courses on FrontEnd Masters
   * [VIM Fundamentals](https://frontendmasters.com/courses/vim-fundamentals/)
   * [Developer Productivity](https://frontendmasters.com/courses/developer-productivity/)
-  * [Web3](https://frontendmasters.com/courses/web3-smart-contracts/)
+  * [Rust and Go](https://frontendmasters.com/courses/typescript-go-rust)
 * I am lord of the degen's [Discord](https://discord.gg/ThePrimeagen)
 
