@@ -8,6 +8,7 @@ Fun Facts
 * I make some [YouTubes](https://youtube.com/ThePrimeagen)
 * I work at Netflix
 * I have a few courses on FrontEnd Masters
+  * [Al Gore Rhythms](https://frontendmasters.com/courses/algorithms/)
   * [VIM Fundamentals](https://frontendmasters.com/courses/vim-fundamentals/)
   * [Developer Productivity](https://frontendmasters.com/courses/developer-productivity/)
   * [Rust and Go](https://frontendmasters.com/courses/typescript-go-rust)
