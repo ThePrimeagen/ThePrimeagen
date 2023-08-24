@@ -14,6 +14,7 @@ Fun Facts
   * [Rust For TypeScript Devs](https://frontendmasters.com/courses/rust-ts-devs/)
   * [VIM Fundamentals](https://frontendmasters.com/courses/vim-fundamentals/)
   * [Developer Productivity](https://frontendmasters.com/courses/developer-productivity/)
-  * [Rust and Go](https://frontendmasters.com/courses/typescript-go-rust)
+  * [Polyglot Programming: TypeScript, Go, & Rust](https://frontendmasters.com/courses/typescript-go-rust)
+  * [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
 * I am lord of the degen's [Discord](https://discord.gg/ThePrimeagen)
 
