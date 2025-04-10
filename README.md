@@ -5,7 +5,7 @@ projects, understand memory, and ultimately craft really awesome software.
 
 Fun Facts
 * Almost everything in my repos are developed live on [twitch](https://twitch.tv/ThePrimeagen)
-* I make some [YouTubes](https://youtube.com/ThePrimeagen)
+* I make some [YouTubes](https://youtube.com/ThePrimeTimeagen)
 * I worked at Netflix, btw
 * I have a beautiful wife, btw
 * I have several children, at least more than two
