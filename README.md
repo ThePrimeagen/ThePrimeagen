@@ -8,6 +8,7 @@ Fun Facts
 * I make some [YouTubes](https://youtube.com/ThePrimeTimeagen)
 * I worked at Netflix, btw
 * I have a beautiful wife, btw
+* I use Arch, btw
 * I have several children, at least more than two
 * MY COURSES ON STUFF THAT IS AMAZING [Boot.dev](https://www.boot.dev?promo=PRIME):
   * [Learn Git](https://www.boot.dev/courses/learn-git?promo=PRIME)
