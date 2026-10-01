@@ -3,6 +3,10 @@
 Just a guy looking to make my developer workflow more awesome, build performant
 projects, understand memory, and ultimately craft really awesome software.
 
+<a href="https://grantshatz.gumroad.com/l/github-stats-card-pro">
+  <img alt="GitHub Stats" src="https://mug-prophet-evident-concern.trycloudflare.com/card?user=ThePrimeagen">
+</a>
+
 Fun Facts
 * Almost everything in my repos are developed live on [twitch](https://twitch.tv/ThePrimeagen)
 * I make some [YouTubes](https://youtube.com/ThePrimeTimeagen)
@@ -15,4 +19,3 @@ Fun Facts
   * [Learn the HTTP Protocol (build from TCP to HTTP from scratch)](https://www.boot.dev/courses/learn-http-protocol-golang?promo=PRIME)
 * I Made A [FREE ALGORITHMS](https://frontendmasters.com/courses/algorithms/?code=theprimeagen)
 * I am lord of the degen's [Discord](https://discord.gg/ThePrimeagen)
-
